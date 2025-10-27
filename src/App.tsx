@@ -86,10 +86,7 @@ function App() {
       case 'catalog':
         return <CourseCatalog onSelectCourse={handleCourseSelect} />;
       case 'communication':
-        return <Module1Simple 
-          onNavigateHome={() => setCurrentView('home')}
-          onNavigateCatalog={() => setCurrentView('catalog')}
-        />;
+        return <Module1Simple />;
       case 'adaptive-learning':
         return <Module2New 
           onNavigateHome={() => setCurrentView('home')}

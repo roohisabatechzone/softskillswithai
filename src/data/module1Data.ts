@@ -201,51 +201,72 @@ export const module1Data: SubtopicData[] = [
           title: "Study Group Active Listening",
           description: "Practice active listening during study group sessions",
       instructions: [
-            "Join a study group or create one with classmates",
-            "During discussions, focus entirely on what others are saying",
-            "Ask at least 3 clarifying questions per session",
-            "Summarize what you heard before contributing your own ideas",
-            "Reflect on how active listening improved the group dynamic"
+            '• Join study group with 3-5 classmates—create if needed',
+            '• Focus entirely on speaker—no phone, laptop, distractions',
+            '• Ask 3+ clarifying questions: "Can you explain more?"',
+            '• Summarize what heard before adding your ideas',
+            '• Reflect: How active listening improved group?',
+            '',
+            '🚫 Common Mistakes to Avoid:',
+            '• Multitasking while listening—phone kills attention',
+            '• Planning response while they talk—miss what they saying',
+            '• Interrupting to share ideas—let them finish first',
+            '• Not asking questions—shows disengagement',
+            '• Fake listening with nodding—people can tell'
       ],
       successCriteria: [
-            "Demonstrated full attention during group discussions",
-            "Asked thoughtful, clarifying questions",
-            "Successfully summarized others' points before adding your own",
-            "Received positive feedback from group members about your listening"
+            '✅ You gave full attention during all group discussions',
+            '✅ You asked 3+ thoughtful clarifying questions',
+            '✅ You summarized others before adding your own',
+            '✅ You received positive feedback about listening'
           ]
         },
         professional: {
           title: "Workplace Listening Excellence",
           description: "Apply active listening skills in professional settings",
           instructions: [
-            "During meetings, practice the 80/20 rule (listen 80%, speak 20%)",
-            "Take notes on key points and ask follow-up questions",
-            "Use non-verbal cues like nodding and maintaining eye contact",
-            "Summarize what you heard before responding",
-            "Reflect on how this improved your professional relationships"
+            '• Practice 80/20 rule: listen 80%, speak 20%',
+            '• Take notes on key points, ask follow-ups',
+            '• Use non-verbal cues: nod, eye contact, lean forward',
+            '• Summarize what heard before responding',
+            '• Reflect: How this improved work relationships?',
+            '',
+            '🚫 Common Mistakes to Avoid:',
+            '• Checking phone during meetings—shows disrespect',
+            '• Talking over colleagues—wait your turn',
+            '• Not asking questions—miss clarity',
+            '• Assuming you know—listen fully first',
+            '• Poor body language—signals disengaged'
           ],
           successCriteria: [
-            "Consistently demonstrated active listening in meetings",
-            "Asked relevant follow-up questions that added value",
-            "Received positive feedback from colleagues about your engagement",
-            "Successfully avoided misunderstandings through better listening"
+            '✅ You practiced active listening in all meetings',
+            '✅ You asked relevant follow-ups adding value',
+            '✅ You received positive feedback about engagement',
+            '✅ You avoided misunderstandings through listening'
           ]
         },
         personal: {
           title: "Relationship Listening Practice",
           description: "Strengthen personal relationships through active listening",
       instructions: [
-            "Choose a family member or close friend for this challenge",
-            "Have a conversation where you focus entirely on listening",
-            "Ask open-ended questions to encourage deeper sharing",
-            "Practice reflecting back what you heard",
-            "Notice how this changes the quality of your relationship"
+            '• Choose family member or close friend',
+            '• Have conversation—focus entirely, no phone',
+            '• Ask open-ended: "How did that make you feel?"',
+            '• Practice reflecting back: "So what you saying is..."',
+            '• Notice: How this changed relationship quality?',
+            '',
+            '🚫 Common Mistakes to Avoid:',
+            '• Immediately giving advice—they want heard, not fixed',
+            '• Making it about you—"That happened to me too..."',
+            '• Judging feelings—"You shouldn\'t feel that way"',
+            '• Phone distractions—shows you don\'t value them',
+            '• Forgetting what said—ask later to show you listened'
       ],
       successCriteria: [
-            "Demonstrated genuine interest in the other person's perspective",
-            "Asked questions that encouraged deeper sharing",
-            "Successfully reflected back what you heard",
-            "Received positive feedback about feeling heard and understood"
+            '✅ You demonstrated genuine interest in their perspective',
+            '✅ You asked questions encouraging deeper sharing',
+            '✅ You successfully reflected back what you heard',
+            '✅ You received positive feedback about feeling heard'
           ]
         }
       }
